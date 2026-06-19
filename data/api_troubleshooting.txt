@@ -1,0 +1,7 @@
+API Authentication Issues
+
+If the API token is invalid, generate a new token.
+
+Check whether the token has expired.
+
+Verify that the Authorization header is correctly configured.
